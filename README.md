@@ -3,10 +3,19 @@
 
 
 [wiki-home](https://github.com/dimyme/djvujs/wiki/) : https://github.com/dimyme/djvujs/wiki/
+
+
 ***
+
 Is this a déjà-vu for you?  [org site](https://djvu.js.org/)   djvu.js.org
-***
-DjVu.js Viewer v.0.3.3, v.0.2.4. A program library for working with .djvu files online.  A widget powered with the DjVu.js library, allowing to view .djvu files online
+
+
+DjVu.js Viewer v.0.3.3, v.0.2.4. 
+
+
+A program library for working with .djvu files online.  
+
+A widget powered with the DjVu.js library, allowing to view .djvu files online
 
 ## About / О проекте
 
