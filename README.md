@@ -1,5 +1,8 @@
 # DjVu.js
-wiki :  https://dimyme.github.io/djvujs/
+wiki : https://github.com/dimyme/djvujs/wiki
+
+
+home : https://dimyme.github.io/djvujs/
 ## About / О проекте
 
 **DjVu.js** is a program library for working with `.djvu` online. It's written in JavaScript and can be run in the web browsers without any connection with the server. DjVu.js can be used for splitting (and concatenation) of `.djvu` files, rendering pages of a `.djvu` document, converting (and compressing) images into `.djvu` documents and for analyzing of metadata of `.djvu` documents.
